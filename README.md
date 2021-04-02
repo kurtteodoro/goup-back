@@ -1,4 +1,4 @@
-# goup back-end
+# Goup back-end
 
 ## Instalando dependencias
 ```
