@@ -2,6 +2,9 @@
 
 ## Instalando dependencias
 ```
+cd goup-back
+```
+```
 composer install
 ```
 
